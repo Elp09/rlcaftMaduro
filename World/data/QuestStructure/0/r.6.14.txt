@@ -1,0 +1,2 @@
+SpiderPit,3543,3552,7237,7247
+RLCraft_SmallUndergroundSkeleton,3542,3550,7178,7186

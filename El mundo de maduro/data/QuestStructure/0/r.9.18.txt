@@ -1,0 +1,4 @@
+ShrineSmallWater,5113,5121,9354,9362
+ShrineSmallAir,4900,4908,9415,9423
+RLCraft_DecentSkeleton,4939,4939,9528,9528
+RLCraft_UndergroundRuin2,4934,4941,9523,9533

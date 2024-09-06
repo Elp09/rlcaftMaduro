@@ -1,0 +1,5 @@
+ShrineSmallFire,-3778,-3768,6209,6219
+RLCraft_DecentWitch,-3948,-3948,6186,6186
+RLCraft_UndergroundRuin2,-3953,-3943,6181,6188
+IceThorn4,-3864,-3848,6345,6371
+RLCraft_UndergroundFarm,-3732,-3690,6302,6345

@@ -1,0 +1,6 @@
+P_Village2Story,5680,5693,8585,8591
+VillageLargeLibrary,5700,5719,8571,8591
+P_VillageHouse,5700,5709,8553,8564
+RLCraft_SmallUndergroundSkeleton,5951,5959,8557,8565
+RLCraft_DecentSpider,6138,6138,8598,8598
+RLCraft_UndergroundRuin3,6133,6141,8592,8600

@@ -1,0 +1,1 @@
+StonePlantBoulder,2080,2090,511,521

@@ -1,0 +1,11 @@
+StonePlantMound4,2123,2130,409,416
+StoneBoulder,2192,2201,399,408
+StonePlantMound4,2073,2080,402,409
+RLCraft_BasicSkeleton,2066,2066,402,402
+RLCraft_UndergroundRuin1,2063,2072,399,408
+StoneBoulder,2100,2109,305,314
+StonePlantMound2,2112,2124,260,273
+RLCraft_DecentWitch,2083,2083,272,272
+RLCraft_UndergroundRuin3,2080,2088,266,274
+StonePlantMound4,2179,2186,248,255
+SmallWoodenCottage2,2300,2308,414,422

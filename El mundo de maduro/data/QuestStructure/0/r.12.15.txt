@@ -1,0 +1,5 @@
+SmallWoodenCottage,6549,6560,8186,8194
+AbandonedWoodTower,6346,6376,8145,8181
+DinosaurSkeleton,6354,6400,8125,8134
+RLCraft_BasicSpider,6595,6595,8045,8045
+RLCraft_UndergroundRuin1,6589,6598,8042,8051

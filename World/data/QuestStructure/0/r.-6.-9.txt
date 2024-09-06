@@ -1,0 +1,5 @@
+StoneIceBoulder1,-3479,-3469,-4715,-4705
+P_AncientTeleporter,-3474,-3441,-4717,-4682
+RLCraft_BasicZombie,-3098,-3098,-4659,-4659
+RLCraft_UndergroundRuin1,-3104,-3095,-4665,-4656
+P_Tent,-3302,-3293,-4755,-4746

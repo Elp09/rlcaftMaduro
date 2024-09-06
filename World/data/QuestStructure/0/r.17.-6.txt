@@ -1,0 +1,9 @@
+ThreeTowers,8836,8867,-3511,-3479
+P_Village2Story,8827,8833,-3474,-3461
+VillageForgeLarge,8806,8822,-3491,-3479
+VillageSavannaKitchen,8836,8848,-3538,-3528
+VillageSavannaChandlery,8812,8822,-3514,-3503
+RLCraft_DecentSpider,8802,8802,-3482,-3482
+RLCraft_UndergroundRuin2,8797,8807,-3487,-3480
+P_VillageFarmhouse,8784,8796,-3506,-3494
+VillageMarketplace,8806,8820,-3544,-3530

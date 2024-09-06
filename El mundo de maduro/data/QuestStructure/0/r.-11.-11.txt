@@ -1,0 +1,2 @@
+SmallAbandonedMine,-6100,-6075,-5815,-5800
+RLCraft_SmallUndergroundSkeleton,-5926,-5918,-5714,-5706

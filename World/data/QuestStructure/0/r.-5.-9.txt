@@ -1,0 +1,5 @@
+UndergroundCrypt,-3041,-3013,-4645,-4631
+DinosaurSkull,-3059,-3048,-4698,-4679
+StoneIceBoulder,-2981,-2971,-4672,-4663
+RLCraft_DecentSkeleton,-2972,-2972,-4724,-4724
+RLCraft_UndergroundRuin2,-2977,-2970,-4729,-4719

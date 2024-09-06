@@ -1,0 +1,4 @@
+VillageGuardTower,7679,7691,8214,8226
+P_VillageHouse,7696,7707,8214,8223
+ThreeTowers,7689,7721,8244,8275
+VillageSavannaStonemason,7729,7745,8214,8229

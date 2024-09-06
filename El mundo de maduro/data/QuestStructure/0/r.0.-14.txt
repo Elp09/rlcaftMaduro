@@ -1,0 +1,5 @@
+RLCraft_DecentWitch,501,501,-7212,-7212
+RLCraft_UndergroundRuin2,499,506,-7217,-7207
+DesertHut,455,465,-7317,-7308
+RLCraft_BasicSkeleton,501,501,-7297,-7297
+RLCraft_UndergroundRuin1,498,507,-7303,-7294

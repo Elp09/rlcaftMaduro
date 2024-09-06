@@ -1,0 +1,7 @@
+MeteorSite,5585,5615,9521,9536
+StonePlantMound,5580,5585,9296,9301
+RLCraft_BasicSpider,5147,5147,9331,9331
+RLCraft_UndergroundRuin1,5144,5153,9325,9334
+RLCraft_DecentCaveSpider,5140,5140,9297,9297
+RLCraft_UndergroundRuin2,5135,5145,9295,9302
+FallenPalmTree,5535,5545,9596,9600

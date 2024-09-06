@@ -1,0 +1,6 @@
+RLCraft_PlainsCamp,-2924,-2878,-5636,-5597
+MonolythUnholy,-2876,-2862,-5546,-5532
+StonePlantMound2,-2881,-2869,-5518,-5505
+StonePlantBoulder,-2842,-2832,-5530,-5520
+StoneBoulder,-2815,-2806,-5515,-5506
+StonePlantBoulder,-3068,-3058,-5486,-5476

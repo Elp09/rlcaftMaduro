@@ -1,0 +1,4 @@
+StonePlantMound1,-3842,-3836,-4021,-4015
+RLCraft_SmallUndergroundSkeleton,-3700,-3692,-3953,-3945
+StonePlantMound4,-3695,-3688,-3910,-3903
+StoneBoulder,-3752,-3743,-4089,-4080

@@ -1,0 +1,5 @@
+StoneBoulder,2536,2545,-9958,-9949
+StoneBoulder,2488,2497,-9995,-9986
+StonePlantMound2,2520,2532,-9986,-9973
+StonePlantMound4,2511,2518,-9983,-9976
+MonolythHoly,2404,2418,-9759,-9745

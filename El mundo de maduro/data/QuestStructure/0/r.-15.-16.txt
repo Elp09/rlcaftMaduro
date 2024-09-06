@@ -1,0 +1,3 @@
+StoneIceBoulder3,-7985,-7975,-8707,-8697
+RLCraft_BasicWitch,-7920,-7920,-8643,-8643
+RLCraft_UndergroundRuin1,-7926,-7917,-8646,-8637

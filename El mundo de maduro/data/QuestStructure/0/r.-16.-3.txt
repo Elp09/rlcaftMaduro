@@ -1,0 +1,6 @@
+RLCraft_BasicSpider,-8479,-8479,-1817,-1817
+RLCraft_UndergroundRuin1,-8482,-8473,-1820,-1811
+RLCraft_DecentWitch,-8306,-8306,-1962,-1962
+RLCraft_UndergroundRuin3,-8309,-8301,-1964,-1956
+RLCraft_DecentSpider,-8331,-8331,-2003,-2003
+RLCraft_UndergroundRuin3,-8333,-8325,-2008,-2000

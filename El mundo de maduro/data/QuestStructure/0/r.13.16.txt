@@ -1,0 +1,9 @@
+RLCraft_BasicZombie,6662,6662,8682,8682
+RLCraft_UndergroundRuin1,6659,6668,8676,8685
+DinosaurSkull,6686,6697,8503,8522
+RLCraft_4Towers,6717,6777,8319,8371
+DinosaurSkull,6914,6933,8490,8501
+RLCraft_DecentSpider,6965,6965,8403,8403
+RLCraft_UndergroundRuin3,6960,6968,8401,8409
+RLCraft_BasicSpider,6988,6988,8358,8358
+RLCraft_UndergroundRuin1,6985,6994,8355,8364

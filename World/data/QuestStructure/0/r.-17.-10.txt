@@ -1,0 +1,8 @@
+RLCraft_PlainsCamp,-8908,-8862,-5250,-5211
+RLCraft_PlainsWindmill,-8843,-8772,-5280,-5195
+StonePlantMound1,-8888,-8882,-5309,-5303
+SmallWoodenCottage2,-8832,-8824,-5318,-5310
+RLCraft_SmallUndergroundSkeleton,-8762,-8754,-5254,-5246
+RLCraft_FriendlyOutpost,-8795,-8727,-5359,-5320
+RLCraft_BasicZombie,-9054,-9054,-5350,-5350
+RLCraft_UndergroundRuin1,-9060,-9051,-5353,-5344

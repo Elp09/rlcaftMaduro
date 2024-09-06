@@ -1,0 +1,4 @@
+VillageForgeLarge,-9034,-9022,-5044,-5028
+RLCraft_DecentZombie,-8945,-8945,-5019,-5019
+RLCraft_UndergroundRuin3,-8947,-8939,-5022,-5014
+VillageHouseRich,-9046,-9031,-5027,-5008

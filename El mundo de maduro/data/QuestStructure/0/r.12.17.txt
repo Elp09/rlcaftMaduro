@@ -1,0 +1,8 @@
+ShrineSmallFire,6186,6196,9061,9071
+DinosaurSkeleton,6363,6409,9075,9084
+JokerTower,6411,6419,9016,9024
+RLCraft_PlainsCamp,6125,6164,8856,8902
+RLCraft_PlainsCamp,6358,6397,8737,8783
+PirateChest,6532,6536,8748,8752
+RLCraft_DecentSkeleton,6577,6577,8760,8760
+RLCraft_UndergroundRuin2,6572,6582,8755,8762

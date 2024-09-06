@@ -1,0 +1,5 @@
+CorruptedEnderTree,7285,7296,4509,4522
+SmallWoodenCottage2,7257,7265,4494,4502
+RLCraft_DecentCaveSpider,7286,7286,4444,4444
+RLCraft_UndergroundRuin3,7280,7288,4441,4449
+ShrineSmallAir,7272,7280,4539,4547

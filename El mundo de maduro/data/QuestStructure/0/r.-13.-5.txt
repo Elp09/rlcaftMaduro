@@ -1,0 +1,16 @@
+StonePlantBoulder,-6874,-6864,-2795,-2785
+RLCraft_DecentSpider,-6734,-6734,-2769,-2769
+RLCraft_UndergroundRuin2,-6736,-6729,-2774,-2764
+WoodWallRemains,-6906,-6898,-2769,-2741
+StonePlantBoulder,-6737,-6727,-2685,-2675
+StonePlantMound,-6906,-6901,-2807,-2802
+StonePlantMound1,-6744,-6738,-2841,-2835
+StoneBoulder,-6695,-6686,-2746,-2737
+RLCraft_BasicCaveSpider,-6878,-6878,-2855,-2855
+RLCraft_UndergroundRuin1,-6881,-6872,-2858,-2849
+RLCraft_PlainsCampRuined,-6758,-6719,-2664,-2619
+StonePlantMound2,-6817,-6805,-2890,-2877
+RLCraft_SmallUndergroundSkeleton,-6935,-6927,-2821,-2813
+ShrineSmallAir,-6767,-6759,-2903,-2895
+StonePlantMound1,-6661,-6655,-2699,-2693
+StonePlantMound,-6662,-6657,-2805,-2800

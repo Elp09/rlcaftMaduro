@@ -1,0 +1,7 @@
+SmallWoodenCottage1,7483,7494,8086,8092
+RLCraft_DecentZombie,7560,7560,8159,8159
+RLCraft_UndergroundRuin3,7558,7566,8156,8164
+RLCraft_DecentSpider,7577,7577,8157,8157
+RLCraft_UndergroundRuin2,7572,7582,8155,8162
+RLCraft_AgentStarbuck_WaterBase,7541,7558,7848,7860
+ShrineSmallAir,7617,7625,7838,7846

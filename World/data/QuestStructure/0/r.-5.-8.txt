@@ -1,0 +1,9 @@
+StoneIceBoulder1,-3076,-3066,-4585,-4575
+StoneIceBoulder1,-3068,-3058,-4356,-4346
+DinosaurSkull,-3000,-2989,-4420,-4401
+AbandonedWoodTower,-2970,-2940,-4546,-4510
+StoneIceBoulder,-2967,-2958,-4375,-4365
+ShrineSmallFire,-2956,-2946,-4491,-4481
+StoneIceBoulder,-2944,-2934,-4400,-4391
+RLCraft_SmallUndergroundSkeleton,-2899,-2891,-4454,-4446
+StoneIceBoulder1,-2885,-2875,-4497,-4487

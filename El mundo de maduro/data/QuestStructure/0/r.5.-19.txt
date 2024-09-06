@@ -1,0 +1,2 @@
+StonePlantMound,2593,2598,-9882,-9877
+StoneBoulder,2662,2671,-9817,-9808

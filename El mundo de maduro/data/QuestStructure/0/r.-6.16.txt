@@ -1,0 +1,17 @@
+RLCraft_SmallUndergroundSkeleton,-3112,-3104,8457,8465
+RLCraft_BasicWitch,-3075,-3075,8431,8431
+RLCraft_UndergroundRuin1,-3078,-3069,8425,8434
+ThreeTowers,-3242,-3210,8473,8504
+SmallAbandonedMine,-3220,-3195,8481,8496
+SmallAbandonedMine,-3158,-3143,8356,8381
+RLCraft_Vineyard,-3251,-3231,8440,8468
+P_VillageFarmhouse,-3251,-3239,8416,8428
+VillageHouseRich1,-3265,-3244,8473,8491
+VillageForgeLarge,-3272,-3256,8438,8450
+VillageWoodMill,-3274,-3258,8418,8431
+VillageTriplets,-3274,-3260,8400,8414
+ShrineSmallAir,-3285,-3277,8515,8523
+P_VillageInn,-3297,-3286,8461,8470
+VillageMarketplace,-3298,-3284,8438,8452
+P_Village2Story,-3310,-3304,8451,8464
+RLCraft_SmallUndergroundSkeleton,-3312,-3304,8482,8490

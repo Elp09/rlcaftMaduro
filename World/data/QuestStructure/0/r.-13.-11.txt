@@ -1,0 +1,8 @@
+StonePlantMound4,-6913,-6906,-6031,-6024
+P_SkyCastle,-6881,-6840,-6117,-6076
+StoneBoulder,-6931,-6922,-5959,-5950
+DinosaurSkull,-6795,-6776,-6020,-6009
+WoodThornBig,-6824,-6811,-5928,-5915
+StonePlantMound2,-6777,-6764,-5996,-5984
+RLCraft_SmallUndergroundSkeleton,-7042,-7034,-5916,-5908
+StonePlantBoulder,-7076,-7066,-5890,-5880

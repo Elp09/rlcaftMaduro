@@ -1,0 +1,5 @@
+RLCraft_DecentZombie,6393,6393,10256,10256
+RLCraft_UndergroundRuin3,6390,6398,10250,10258
+RLCraft_SmallUndergroundSkeleton,6340,6348,10371,10379
+ShrineSmallAir,6392,6400,10285,10293
+MeteorSite,6453,6483,10246,10261

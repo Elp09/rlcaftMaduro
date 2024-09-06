@@ -1,0 +1,2 @@
+DinosaurSkull,7704,7715,8154,8173
+StoneLeafMound,7713,7722,7885,7892

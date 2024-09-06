@@ -1,0 +1,14 @@
+DesertWatchtower,-234,-224,-65,-55
+RLCraft_SmallUndergroundSkeleton,-137,-129,128,136
+DinosaurSkeleton,-105,-96,-150,-104
+RLCraft_BasicWitch,-44,-44,-27,-27
+RLCraft_UndergroundRuin1,-47,-38,-30,-21
+RLCraft_BasicSkeleton,-142,-142,-389,-389
+RLCraft_UndergroundRuin1,-148,-139,-392,-383
+SeasonsGreenhouse,113,123,125,137
+P_VillageHouse,122,133,80,89
+P_Village2Story,128,141,125,131
+VillageWoodMill,150,166,77,90
+VillageMarketplace,150,164,106,120
+VillageSavannaKitchen,150,160,125,137
+P_VillageFarmhouse,169,181,125,137

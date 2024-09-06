@@ -1,0 +1,6 @@
+ShrineSmallAir,-2779,-2771,-3707,-3699
+RLCraft_DecentCaveSpider,-2750,-2750,-3647,-3647
+RLCraft_UndergroundRuin2,-2755,-2745,-3649,-3642
+DinosaurSkull,-2707,-2696,-3921,-3902
+ClayWaterMound,-2611,-2604,-3825,-3817
+RLCraft_UndergroundFarm,-2630,-2588,-3930,-3887

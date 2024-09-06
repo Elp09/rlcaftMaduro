@@ -1,0 +1,4 @@
+P_Village2Story,6665,6671,8793,8806
+VillageSavannaTannery,6664,6687,8822,8833
+MonolythHoly,6679,6693,8701,8715
+VillageMarketplace,6694,6708,8797,8811

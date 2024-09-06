@@ -1,0 +1,10 @@
+StonePlantMound4,3057,3064,8832,8839
+BrickHenge,3009,3025,8996,9012
+RLCraft_SmallUndergroundSkeleton,2999,3007,8858,8866
+MysticalTree2,3047,3057,9145,9155
+StonePlantMound1,2985,2991,9092,9098
+StonePlantBoulder,2959,2969,9096,9106
+StonePlantMound2,2957,2969,9119,9132
+RLCraft_DecentSpider,2937,2937,9085,9085
+RLCraft_UndergroundRuin3,2935,2943,9080,9088
+StoneLeafMound,2916,2925,9117,9124

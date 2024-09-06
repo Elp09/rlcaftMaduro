@@ -1,0 +1,8 @@
+RLCraft_BasicCaveSpider,-9552,-9552,-8092,-8092
+RLCraft_UndergroundRuin1,-9555,-9546,-8098,-8089
+StonePlantBoulder,-9728,-9718,-7811,-7801
+P_CultIsland,-9830,-9620,-8236,-8066
+StonePlantBoulder,-9543,-9533,-7998,-7988
+StonePlantMound1,-9521,-9515,-8022,-8016
+StoneBoulder,-9505,-9496,-7984,-7975
+StonePlantMound4,-9487,-9480,-7981,-7974

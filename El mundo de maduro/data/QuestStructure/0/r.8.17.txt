@@ -1,0 +1,10 @@
+RLCraft_DecentSpider,4449,4449,9169,9169
+RLCraft_UndergroundRuin2,4444,4454,9167,9174
+StoneBoulder,4261,4270,9138,9147
+StonePlantMound4,4161,4168,9134,9141
+StoneBoulder,4094,4103,9096,9105
+StonePlantMound4,4181,4188,9027,9034
+StonePlantBoulder,4131,4141,8972,8982
+AbandonedWoodTower,4169,4199,8932,8968
+StonePlantMound2,4131,4143,8917,8930
+StonePlantBoulder,4095,4105,8905,8915

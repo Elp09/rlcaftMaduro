@@ -1,0 +1,6 @@
+BlazeSpawnerCrystal,-4326,-4320,-6045,-6039
+StoneLeafMound,-4358,-4351,-5959,-5950
+RLCraft_BasicSkeleton,-4221,-4221,-5989,-5989
+RLCraft_UndergroundRuin1,-4224,-4215,-5992,-5983
+StonePlantBoulder,-4520,-4510,-5958,-5948
+StonePlantMound1,-4484,-4478,-5925,-5919
